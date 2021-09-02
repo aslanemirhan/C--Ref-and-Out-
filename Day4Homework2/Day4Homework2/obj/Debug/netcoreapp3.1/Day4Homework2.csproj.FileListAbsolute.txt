@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.exe
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.deps.json
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.runtimeconfig.json
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.dll
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\bin\Debug\netcoreapp3.1\Day4Homework2.pdb
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.dll
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.pdb
+C:\Users\Toshiba\source\repos\Day4Homework2\Day4Homework2\obj\Debug\netcoreapp3.1\Day4Homework2.genruntimeconfig.cache
